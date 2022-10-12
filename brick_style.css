@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#mycanvas{
+    background-color: rgb(10, 137, 160);
+    margin: 125px 0px 125px 295px;
+}
